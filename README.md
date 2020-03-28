@@ -7,3 +7,7 @@
  - Implementar el despliegue de mensajes de error en las plantillas.
  - Implementar un proceso para guardar información parcialmente.
  - Editar información en plantillas considerando campos no editables o visibles
+ #### Participantes:
+  - Jose Gerley Morales
+  - Jorge Lievano
+  - Alexis Bonilla
